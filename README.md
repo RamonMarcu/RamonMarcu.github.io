@@ -1,1 +1,1 @@
-# RamonMarcu.github.io is a minimalist Open CV. 
+# RamonMarcu.github.io is an open web page for demo purposes only. 
